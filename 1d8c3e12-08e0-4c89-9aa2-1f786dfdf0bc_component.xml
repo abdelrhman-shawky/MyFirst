@@ -9,7 +9,7 @@
         <item name="Access" type_name="gh_int32" type_code="3">2</item>
         <item name="Description" type_name="gh_string" type_code="10">A viewer for data structures.</item>
         <item name="DisplayGraph" type_name="gh_bool" type_code="1">false</item>
-        <item name="InstanceGuid" type_name="gh_guid" type_code="9">e1828ab2-abad-4cae-9c2b-2afc04469d3e</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">1d8c3e12-08e0-4c89-9aa2-1f786dfdf0bc</item>
         <item name="Name" type_name="gh_string" type_code="10">Param Viewer</item>
         <item name="NickName" type_name="gh_string" type_code="10">Viewer</item>
         <item name="Optional" type_name="gh_bool" type_code="1">true</item>
@@ -18,12 +18,16 @@
       </items>
       <chunks count="1">
         <chunk name="Attributes">
-          <items count="1">
+          <items count="2">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-              <X>205</X>
-              <Y>133</Y>
-              <W>166</W>
+              <X>429</X>
+              <Y>-23</Y>
+              <W>200</W>
               <H>100</H>
+            </item>
+            <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+              <X>429.9899</X>
+              <Y>-22.9785</Y>
             </item>
           </items>
         </chunk>

@@ -1,0 +1,33 @@
+<chunk name="Object" index="0">
+  <items count="2">
+    <item name="GUID" type_name="gh_guid" type_code="9">448de216-3a12-43cf-a135-e3bfafc87744</item>
+    <item name="Name" type_name="gh_string" type_code="10">Cluster Input</item>
+  </items>
+  <chunks count="1">
+    <chunk name="Container">
+      <items count="9">
+        <item name="CustomDescription" type_name="gh_string" type_code="10"></item>
+        <item name="CustomName" type_name="gh_string" type_code="10"></item>
+        <item name="CustomNickName" type_name="gh_string" type_code="10"></item>
+        <item name="Description" type_name="gh_string" type_code="10">Represents a cluster input parameter</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">7be2bd17-58c6-4336-a352-0fa3e5467094</item>
+        <item name="Name" type_name="gh_string" type_code="10">Cluster Input</item>
+        <item name="NickName" type_name="gh_string" type_code="10">Input</item>
+        <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+        <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+      </items>
+      <chunks count="1">
+        <chunk name="Attributes">
+          <items count="1">
+            <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+              <X>211</X>
+              <Y>475</Y>
+              <W>60</W>
+              <H>24</H>
+            </item>
+          </items>
+        </chunk>
+      </chunks>
+    </chunk>
+  </chunks>
+</chunk>

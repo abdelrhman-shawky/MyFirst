@@ -1,0 +1,41 @@
+<chunk name="Object" index="0">
+  <items count="2">
+    <item name="GUID" type_name="gh_guid" type_code="9">e6dd2904-14bc-455b-8376-948bf2e3a7bc</item>
+    <item name="Name" type_name="gh_string" type_code="10">Galapagos</item>
+  </items>
+  <chunks count="1">
+    <chunk name="Container">
+      <items count="4">
+        <item name="Description" type_name="gh_string" type_code="10">Interface with Galapagos evolutionary solver</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">d967591d-d098-4d0d-b981-ca34367a8c0f</item>
+        <item name="Name" type_name="gh_string" type_code="10">Galapagos</item>
+        <item name="NickName" type_name="gh_string" type_code="10">Galapagos</item>
+      </items>
+      <chunks count="2">
+        <chunk name="GalapagosData">
+          <items count="3">
+            <item name="fitness" type_name="gh_guid" type_code="9">00000000-0000-0000-0000-000000000000</item>
+            <item name="gene_count" type_name="gh_int32" type_code="3">0</item>
+            <item name="solver_settings" type_name="gh_bytearray" type_code="20">
+              <stream length="2498">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiIHN0YW5kYWxvbmU9InllcyI/Pg0KPEdhbGFwYWdvcz4NCiAgPCEtLUdQX1NvbHZlciBEdW1wLS0+DQogIDwhLS1DcmVhdGVkIG9uOiAyMjozNzo1NywgU3VuZGF5LCAwNiBPY3RvYmVyIDIwMjQtLT4NCiAgPFNvbHZlcj4xPC9Tb2x2ZXI+DQogIDxUYXJnZXQ+SW5maW5pdHk8L1RhcmdldD4NCiAgPFRocmVzaG9sZD5OYU48L1RocmVzaG9sZD4NCiAgPEdBX0luaXRpYWxTaXplPjUwPC9HQV9Jbml0aWFsU2l6ZT4NCiAgPEdBX01pbmltdW1TaXplPjIwPC9HQV9NaW5pbXVtU2l6ZT4NCiAgPEdBX0luaXRpYWxCb29zdD4yPC9HQV9Jbml0aWFsQm9vc3Q+DQogIDxHQV9GcnVpdGxlc3NMaW1pdD41MDwvR0FfRnJ1aXRsZXNzTGltaXQ+DQogIDxHQV9JbmJyZWVkaW5nRmFjdG9yPjc1PC9HQV9JbmJyZWVkaW5nRmFjdG9yPg0KICA8R0FfTWFpbnRhaW5QZXJjZW50YWdlPjU8L0dBX01haW50YWluUGVyY2VudGFnZT4NCiAgPEdBX0NvdXBsaW5nQ291bnQ+MzwvR0FfQ291cGxpbmdDb3VudD4NCiAgPEdBX0NvdXBsaW5nXzA+DQogICAgPGNvdXBsaW5nX2FsZ29yaXRobT4zPC9jb3VwbGluZ19hbGdvcml0aG0+DQogICAgPGNvdXBsaW5nX2JpYXM+MjwvY291cGxpbmdfYmlhcz4NCiAgICA8Y291cGxpbmdfaW5jbHVzaW9uPjEwPC9jb3VwbGluZ19pbmNsdXNpb24+DQogIDwvR0FfQ291cGxpbmdfMD4NCiAgPEdBX0NvdXBsaW5nXzE+DQogICAgPGNvdXBsaW5nX2FsZ29yaXRobT4zPC9jb3VwbGluZ19hbGdvcml0aG0+DQogICAgPGNvdXBsaW5nX2JpYXM+NTwvY291cGxpbmdfYmlhcz4NCiAgICA8Y291cGxpbmdfaW5jbHVzaW9uPjEwPC9jb3VwbGluZ19pbmNsdXNpb24+DQogIDwvR0FfQ291cGxpbmdfMT4NCiAgPEdBX0NvdXBsaW5nXzI+DQogICAgPGNvdXBsaW5nX2FsZ29yaXRobT4xPC9jb3VwbGluZ19hbGdvcml0aG0+DQogICAgPGNvdXBsaW5nX2JpYXM+MTwvY291cGxpbmdfYmlhcz4NCiAgICA8Y291cGxpbmdfaW5jbHVzaW9uPjA8L2NvdXBsaW5nX2luY2x1c2lvbj4NCiAgPC9HQV9Db3VwbGluZ18yPg0KICA8R0FfQ29hbGVzY2VuY2VDb3VudD4zPC9HQV9Db2FsZXNjZW5jZUNvdW50Pg0KICA8R0FfQ29hbGVzY2VuY2VfMD4NCiAgICA8Y29hbGVzY2VuY2VfYWxnb3JpdGhtPjM8L2NvYWxlc2NlbmNlX2FsZ29yaXRobT4NCiAgICA8Y29hbGVzY2VuY2VfcHJlZmVyZW5jZT44MDwvY29hbGVzY2VuY2VfcHJlZmVyZW5jZT4NCiAgPC9HQV9Db2FsZXNjZW5jZV8wPg0KICA8R0FfQ29hbGVzY2VuY2VfMT4NCiAgICA8Y29hbGVzY2VuY2VfYWxnb3JpdGhtPjI8L2NvYWxlc2NlbmNlX2FsZ29yaXRobT4NCiAgICA8Y29hbGVzY2VuY2VfcHJlZmVyZW5jZT41MDwvY29hbGVzY2VuY2VfcHJlZmVyZW5jZT4NCiAgPC9HQV9Db2FsZXNjZW5jZV8xPg0KICA8R0FfQ29hbGVzY2VuY2VfMj4NCiAgICA8Y29hbGVzY2VuY2VfYWxnb3JpdGhtPjE8L2NvYWxlc2NlbmNlX2FsZ29yaXRobT4NCiAgICA8Y29hbGVzY2VuY2VfcHJlZmVyZW5jZT41MDwvY29hbGVzY2VuY2VfcHJlZmVyZW5jZT4NCiAgPC9HQV9Db2FsZXNjZW5jZV8yPg0KICA8R0FfTXV0YXRpb25Db3VudD40PC9HQV9NdXRhdGlvbkNvdW50Pg0KICA8R0FfTXV0YXRpb25fMD4NCiAgICA8bXV0YXRpb25fYWxnb3JpdGhtPjE8L211dGF0aW9uX2FsZ29yaXRobT4NCiAgICA8bXV0YXRpb25fcG9pbnRyYW5nZT4xPC9tdXRhdGlvbl9wb2ludHJhbmdlPg0KICAgIDxtdXRhdGlvbl9mcmVxdWVuY3k+NTwvbXV0YXRpb25fZnJlcXVlbmN5Pg0KICA8L0dBX011dGF0aW9uXzA+DQogIDxHQV9NdXRhdGlvbl8xPg0KICAgIDxtdXRhdGlvbl9hbGdvcml0aG0+MTwvbXV0YXRpb25fYWxnb3JpdGhtPg0KICAgIDxtdXRhdGlvbl9wb2ludHJhbmdlPjEwPC9tdXRhdGlvbl9wb2ludHJhbmdlPg0KICAgIDxtdXRhdGlvbl9mcmVxdWVuY3k+MTU8L211dGF0aW9uX2ZyZXF1ZW5jeT4NCiAgPC9HQV9NdXRhdGlvbl8xPg0KICA8R0FfTXV0YXRpb25fMj4NCiAgICA8bXV0YXRpb25fYWxnb3JpdGhtPjE8L211dGF0aW9uX2FsZ29yaXRobT4NCiAgICA8bXV0YXRpb25fcG9pbnRyYW5nZT4yNTwvbXV0YXRpb25fcG9pbnRyYW5nZT4NCiAgICA8bXV0YXRpb25fZnJlcXVlbmN5PjMwPC9tdXRhdGlvbl9mcmVxdWVuY3k+DQogIDwvR0FfTXV0YXRpb25fMj4NCiAgPEdBX011dGF0aW9uXzM+DQogICAgPG11dGF0aW9uX2FsZ29yaXRobT4xPC9tdXRhdGlvbl9hbGdvcml0aG0+DQogICAgPG11dGF0aW9uX3BvaW50cmFuZ2U+MTAwPC9tdXRhdGlvbl9wb2ludHJhbmdlPg0KICAgIDxtdXRhdGlvbl9mcmVxdWVuY3k+NjA8L211dGF0aW9uX2ZyZXF1ZW5jeT4NCiAgPC9HQV9NdXRhdGlvbl8zPg0KICA8U0FfSW5pdGlhbEVuZXJneT4xMDA8L1NBX0luaXRpYWxFbmVyZ3k+DQogIDxTQV9FbmVyZ3lEZWNheT45NTAwMDA8L1NBX0VuZXJneURlY2F5Pg0KICA8U0FfRHJpZnRSYXRlPjI1PC9TQV9EcmlmdFJhdGU+DQo8L0dhbGFwYWdvcz4=</stream>
+            </item>
+          </items>
+        </chunk>
+        <chunk name="Attributes">
+          <items count="2">
+            <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+              <X>304.7903</X>
+              <Y>423.2243</Y>
+              <W>120</W>
+              <H>60</H>
+            </item>
+            <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+              <X>314.7903</X>
+              <Y>433.2243</Y>
+            </item>
+          </items>
+        </chunk>
+      </chunks>
+    </chunk>
+  </chunks>
+</chunk>

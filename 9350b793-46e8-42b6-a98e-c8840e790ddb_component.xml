@@ -1,0 +1,38 @@
+<chunk name="Object" index="0">
+  <items count="3">
+    <item name="GUID" type_name="gh_guid" type_code="9">1def3710-fd5b-4617-bcf6-b6293c5c6530</item>
+    <item name="Lib" type_name="gh_guid" type_code="9">8bbd9f31-e1cd-fb1a-4588-730892e8d0cf</item>
+    <item name="Name" type_name="gh_string" type_code="10">BHoM object</item>
+  </items>
+  <chunks count="1">
+    <chunk name="Container">
+      <items count="9">
+        <item name="Description" type_name="gh_string" type_code="10">Represents a collection of generic BHoM objects</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">9350b793-46e8-42b6-a98e-c8840e790ddb</item>
+        <item name="Name" type_name="gh_string" type_code="10">BHoM object</item>
+        <item name="NickName" type_name="gh_string" type_code="10">BHoM</item>
+        <item name="ObjectType" type_name="gh_string" type_code="10">{ "_t" : "System.Type", "Name" : "System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089", "_bhomVersion" : "6.1" }</item>
+        <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+        <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+        <item name="m_ForcePreview" type_name="gh_bool" type_code="1">false</item>
+        <item name="m_MaxItemsPreview" type_name="gh_int32" type_code="3">10000</item>
+      </items>
+      <chunks count="1">
+        <chunk name="Attributes">
+          <items count="2">
+            <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+              <X>191</X>
+              <Y>23</Y>
+              <W>50</W>
+              <H>24</H>
+            </item>
+            <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+              <X>216.7861</X>
+              <Y>35.00513</Y>
+            </item>
+          </items>
+        </chunk>
+      </chunks>
+    </chunk>
+  </chunks>
+</chunk>

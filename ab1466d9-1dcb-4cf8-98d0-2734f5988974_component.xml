@@ -1,0 +1,44 @@
+<chunk name="Object" index="0">
+  <items count="2">
+    <item name="GUID" type_name="gh_guid" type_code="9">bcac2747-348b-4edd-ae1f-77a782cebbdd</item>
+    <item name="Name" type_name="gh_string" type_code="10">Control Knob</item>
+  </items>
+  <chunks count="1">
+    <chunk name="Container">
+      <items count="6">
+        <item name="Description" type_name="gh_string" type_code="10">A radial dial knob for settings numbers</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">ab1466d9-1dcb-4cf8-98d0-2734f5988974</item>
+        <item name="Name" type_name="gh_string" type_code="10">Control Knob</item>
+        <item name="NickName" type_name="gh_string" type_code="10">Knob</item>
+        <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+        <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+      </items>
+      <chunks count="2">
+        <chunk name="DialData">
+          <items count="6">
+            <item name="Decimals" type_name="gh_int32" type_code="3">2</item>
+            <item name="Limit" type_name="gh_bool" type_code="1">true</item>
+            <item name="Maximum" type_name="gh_decimal" type_code="7">10</item>
+            <item name="Minimum" type_name="gh_decimal" type_code="7">0</item>
+            <item name="Range" type_name="gh_decimal" type_code="7">1</item>
+            <item name="Value" type_name="gh_decimal" type_code="7">0.25</item>
+          </items>
+        </chunk>
+        <chunk name="Attributes">
+          <items count="2">
+            <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+              <X>107</X>
+              <Y>232</Y>
+              <W>100</W>
+              <H>100</H>
+            </item>
+            <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+              <X>107.216</X>
+              <Y>232.4975</Y>
+            </item>
+          </items>
+        </chunk>
+      </chunks>
+    </chunk>
+  </chunks>
+</chunk>

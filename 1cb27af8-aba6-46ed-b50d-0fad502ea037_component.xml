@@ -1,0 +1,35 @@
+<chunk name="Object" index="0">
+  <items count="3">
+    <item name="GUID" type_name="gh_guid" type_code="9">55f13720-45c1-4b43-892a-25ae4d95eff2</item>
+    <item name="Lib" type_name="gh_guid" type_code="9">074ee50d-763d-495a-8be2-6934897dd6b1</item>
+    <item name="Name" type_name="gh_string" type_code="10">Speckle Object</item>
+  </items>
+  <chunks count="1">
+    <chunk name="Container">
+      <items count="6">
+        <item name="Description" type_name="gh_string" type_code="10">Base object for Speckle</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">1cb27af8-aba6-46ed-b50d-0fad502ea037</item>
+        <item name="Name" type_name="gh_string" type_code="10">Speckle Object</item>
+        <item name="NickName" type_name="gh_string" type_code="10">SO</item>
+        <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+        <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+      </items>
+      <chunks count="1">
+        <chunk name="Attributes">
+          <items count="2">
+            <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+              <X>267</X>
+              <Y>35</Y>
+              <W>50</W>
+              <H>24</H>
+            </item>
+            <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+              <X>292.9377</X>
+              <Y>47.28763</Y>
+            </item>
+          </items>
+        </chunk>
+      </chunks>
+    </chunk>
+  </chunks>
+</chunk>
